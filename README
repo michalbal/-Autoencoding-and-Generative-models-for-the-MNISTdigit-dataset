@@ -1,0 +1,6 @@
+Autoencoding and Generative models for the MNISTdigit dataset
+In order to generate new digit images, we used:
+1. Transfer learning from a provided auto encoder.
+2.Generative Adversarial Network
+Explanation on implementation can be found in ex3.pdf
+* As part of Intro to Deep Learning course
